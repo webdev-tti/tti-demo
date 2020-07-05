@@ -1,0 +1,1374 @@
+[
+  {
+      "id": 42154,
+      "name": "Versatile Boom 1.2m wide Hayman Reece Goose Neck",
+      "slug": "versatile-boom-1-2m-wide-hayman-reece-2-copy",
+      "permalink": "https://dev.tti.com.au/product/versatile-boom-1-2m-wide-hayman-reece-2-copy/",
+      "date_created": "2020-06-23T15:04:15",
+      "date_created_gmt": "2020-06-23T05:04:15",
+      "date_modified": "2020-06-23T15:06:17",
+      "date_modified_gmt": "2020-06-23T05:06:17",
+      "type": "simple",
+      "status": "publish",
+      "featured": false,
+      "catalog_visibility": "visible",
+      "description": "<p>Versatile boom 1.2m wide, up to 4m spray width with Hayman Reese Goose neck</p>\n",
+      "short_description": "<ul>\n<li>1.2m compact boom</li>\n<li>Sprays 4m swath width</li>\n<li>Compatible with any spot sprayer with pump 6.5L/min or more</li>\n<li>Taps for 7 way nozzle control</li>\n<li>Versatile spraying options</li>\n<li>Complete with Haymen Reese Goose neck bracket &#8211; suited to UTV, Utes etc</li>\n<li>Boom mounting brackets with U bolt clamps for attaching to Haymen Reese bracket</li>\n<li>110? Low drift nozzles x3</li>\n<li>On/off ball valve tap for 3 centre nozzles</li>\n<li>Brass off-centre end jets (OC4) on g-swivel body, with on/off ball valve tao</li>\n<li>Ball valve tap for boom on/off controls</li>\n<li>T-piece for fitting to pressure hose</li>\n</ul>\n",
+      "sku": "ABVL040-GN",
+      "price": "699",
+      "regular_price": "699",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_from_gmt": null,
+      "date_on_sale_to": null,
+      "date_on_sale_to_gmt": null,
+      "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>699.00</span>",
+      "on_sale": false,
+      "purchasable": true,
+      "total_sales": 0,
+      "virtual": false,
+      "downloadable": false,
+      "downloads": [],
+      "download_limit": 0,
+      "download_expiry": 0,
+      "external_url": "",
+      "button_text": "",
+      "tax_status": "taxable",
+      "tax_class": "",
+      "manage_stock": true,
+      "stock_quantity": 100,
+      "stock_status": "instock",
+      "backorders": "no",
+      "backorders_allowed": false,
+      "backordered": false,
+      "sold_individually": false,
+      "weight": "20",
+      "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+      },
+      "shipping_required": true,
+      "shipping_taxable": true,
+      "shipping_class": "",
+      "shipping_class_id": 0,
+      "reviews_allowed": false,
+      "average_rating": "0.00",
+      "rating_count": 0,
+      "related_ids": [
+          28191,
+          28108,
+          28153,
+          28178,
+          28120
+      ],
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "purchase_note": "",
+      "categories": [
+          {
+              "id": 539,
+              "name": "Spray",
+              "slug": "spray"
+          },
+          {
+              "id": 540,
+              "name": "Booms &amp; Nozzles",
+              "slug": "booms-nozzles"
+          },
+          {
+              "id": 538,
+              "name": "Parts and Accessories",
+              "slug": "parts-and-accessories"
+          }
+      ],
+      "tags": [],
+      "images": [
+          {
+              "id": 17445,
+              "date_created": "2019-10-21T22:18:56",
+              "date_created_gmt": "2019-10-21T00:18:56",
+              "date_modified": "2019-12-09T22:33:25",
+              "date_modified_gmt": "2019-12-09T00:33:25",
+              "src": "https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2019/10/tti-haymanreese-p1000161_2.jpg",
+              "name": "tti-haymanreese-p1000161_2.jpg",
+              "alt": ""
+          },
+          {
+              "id": 17446,
+              "date_created": "2019-10-21T22:18:58",
+              "date_created_gmt": "2019-10-21T00:18:58",
+              "date_modified": "2019-12-09T22:33:26",
+              "date_modified_gmt": "2019-12-09T00:33:26",
+              "src": "https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2019/10/tti-transspray-versatile-boom-v1_1_1.jpg",
+              "name": "tti-transspray-versatile-boom-v1_1_1.jpg",
+              "alt": ""
+          },
+          {
+              "id": 17447,
+              "date_created": "2019-10-21T22:18:59",
+              "date_created_gmt": "2019-10-21T00:18:59",
+              "date_modified": "2019-12-09T22:33:26",
+              "date_modified_gmt": "2019-12-09T00:33:26",
+              "src": "https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2019/10/tti-transspray-trailpro-200l-p1150974b_1_1.jpg",
+              "name": "tti-transspray-trailpro-200l-p1150974b_1_1.jpg",
+              "alt": ""
+          },
+          {
+              "id": 17448,
+              "date_created": "2019-10-21T22:19:00",
+              "date_created_gmt": "2019-10-21T00:19:00",
+              "date_modified": "2019-12-09T22:33:26",
+              "date_modified_gmt": "2019-12-09T00:33:26",
+              "src": "https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2019/10/tti-transspray-versatile-boom-v2_1_1.jpg",
+              "name": "tti-transspray-versatile-boom-v2_1_1.jpg",
+              "alt": ""
+          },
+          {
+              "id": 17449,
+              "date_created": "2019-10-21T22:19:01",
+              "date_created_gmt": "2019-10-21T00:19:01",
+              "date_modified": "2019-12-05T22:19:38",
+              "date_modified_gmt": "2019-12-05T00:19:38",
+              "src": "https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2019/10/TTi-TransSpray-OnDeck-UTV-Kubota-Action13-P1000392-web.jpg",
+              "name": "TTi-TransSpray-OnDeck-UTV-Kubota-Action13-P1000392-web.jpg",
+              "alt": ""
+          },
+          {
+              "id": 17450,
+              "date_created": "2019-10-21T22:19:03",
+              "date_created_gmt": "2019-10-21T00:19:03",
+              "date_modified": "2020-02-27T21:47:25",
+              "date_modified_gmt": "2020-02-26T23:47:25",
+              "src": "https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2019/10/TTi-TransSpray-OnDeck-12v-300L-P1000071-web.jpg",
+              "name": "TTi-TransSpray-OnDeck-12v-300L-P1000071-web.jpg",
+              "alt": ""
+          }
+      ],
+      "attributes": [],
+      "default_attributes": [],
+      "variations": [],
+      "grouped_products": [],
+      "menu_order": 0,
+      "meta_data": [
+      ],
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<!-- Admin only notice: this page does not show a meta description because it does not have one, either write it for this page specifically or go into the [SEO - Search Appearance] menu and set up a template. -->\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta name=\"bingbot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://dev.tti.com.au/product/versatile-boom-1-2m-wide-hayman-reece-2-copy/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Versatile Boom 1.2m wide Hayman Reece Goose Neck - Trans Tank® International (TTi)\" />\n<meta property=\"og:description\" content=\"1.2m compact boom  Sprays 4m swath width  Compatible with any spot sprayer with pump 6.5L/min or more  Taps for 7 way nozzle control  Versatile spraying options  Complete with Haymen Reese Goose neck bracket - suited to UTV, Utes etc  Boom mounting brackets with U bolt clamps for attaching to Haymen Reese bracket  110? Low drift nozzles x3  On/off ball valve tap for 3 centre nozzles  Brass off-centre end jets (OC4) on g-swivel body, with on/off ball valve tao  Ball valve tap for boom on/off controls  T-piece for fitting to pressure hose\" />\n<meta property=\"og:url\" content=\"https://dev.tti.com.au/product/versatile-boom-1-2m-wide-hayman-reece-2-copy/\" />\n<meta property=\"og:site_name\" content=\"Trans Tank® International (TTi)\" />\n<meta property=\"article:modified_time\" content=\"2020-06-23T05:06:17+00:00\" />\n<meta property=\"og:image\" content=\"https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2019/10/tti-haymanreese-p1000161_2.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1000\" />\n\t<meta property=\"og:image:height\" content=\"667\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://dev.tti.com.au/#website\",\"url\":\"https://dev.tti.com.au/\",\"name\":\"Trans Tank\\u00ae International (TTi)\",\"description\":\"The Safest Tanks in Motion\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://dev.tti.com.au/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-AU\"},{\"@type\":\"ImageObject\",\"@id\":\"https://dev.tti.com.au/product/versatile-boom-1-2m-wide-hayman-reece-2-copy/#primaryimage\",\"inLanguage\":\"en-AU\",\"url\":\"https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2019/10/tti-haymanreese-p1000161_2.jpg\",\"width\":1000,\"height\":667},{\"@type\":\"WebPage\",\"@id\":\"https://dev.tti.com.au/product/versatile-boom-1-2m-wide-hayman-reece-2-copy/#webpage\",\"url\":\"https://dev.tti.com.au/product/versatile-boom-1-2m-wide-hayman-reece-2-copy/\",\"name\":\"Versatile Boom 1.2m wide Hayman Reece Goose Neck - Trans Tank\\u00ae International (TTi)\",\"isPartOf\":{\"@id\":\"https://dev.tti.com.au/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://dev.tti.com.au/product/versatile-boom-1-2m-wide-hayman-reece-2-copy/#primaryimage\"},\"datePublished\":\"2020-06-23T05:04:15+00:00\",\"dateModified\":\"2020-06-23T05:06:17+00:00\",\"inLanguage\":\"en-AU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://dev.tti.com.au/product/versatile-boom-1-2m-wide-hayman-reece-2-copy/\"]}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "_links": {
+          "self": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/42154"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products"
+              }
+          ]
+      }
+  },
+  {
+      "id": 41927,
+      "name": "Factory Fitted  -  Chassis Mount Water Cart",
+      "slug": "factory-fitted",
+      "permalink": "https://dev.tti.com.au/product/factory-fitted/",
+      "date_created": "2020-06-18T12:53:52",
+      "date_created_gmt": "2020-06-18T02:53:52",
+      "date_modified": "2020-07-02T21:37:34",
+      "date_modified_gmt": "2020-07-02T11:37:34",
+      "type": "variable",
+      "status": "publish",
+      "featured": false,
+      "catalog_visibility": "visible",
+      "description": "<p>FloodRite? Chassis Mount Water Cart Trucks have been carefully engineered to offer a complete solution for Dust Suppression, soil conditioning and water transfer, that works every time. FloodRite? is the number one choice for contractors, councils and hire companies across Australia, and boasts a huge range of user friendly functions to help make your life easier. The FloodRite? range is manufactured entirely by TTi in Melbourne, VIC, and is distributed throughout Australia</p>\n",
+      "short_description": "",
+      "sku": "Factory Fitted",
+      "price": 0,
+      "regular_price": "",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_from_gmt": null,
+      "date_on_sale_to": null,
+      "date_on_sale_to_gmt": null,
+      "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>0.00</span>",
+      "on_sale": false,
+      "purchasable": true,
+      "total_sales": 0,
+      "virtual": false,
+      "downloadable": false,
+      "downloads": [],
+      "download_limit": 0,
+      "download_expiry": 0,
+      "external_url": "",
+      "button_text": "",
+      "tax_status": "taxable",
+      "tax_class": "",
+      "manage_stock": true,
+      "stock_quantity": 500,
+      "stock_status": "instock",
+      "backorders": "no",
+      "backorders_allowed": false,
+      "backordered": false,
+      "sold_individually": false,
+      "weight": "",
+      "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+      },
+      "shipping_required": true,
+      "shipping_taxable": true,
+      "shipping_class": "",
+      "shipping_class_id": 0,
+      "reviews_allowed": true,
+      "average_rating": "0.00",
+      "rating_count": 0,
+      "related_ids": [
+          41923,
+          36159,
+          27292
+      ],
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "purchase_note": "",
+      "categories": [
+          {
+              "id": 950,
+              "name": "Water Trucks - Factory Fitted",
+              "slug": "civil-factory-fitout"
+          },
+          {
+              "id": 498,
+              "name": "Water Trucks",
+              "slug": "water-trucks"
+          }
+      ],
+      "tags": [],
+      "images": [
+          {
+              "id": 36536,
+              "date_created": "2020-02-01T04:28:06",
+              "date_created_gmt": "2020-01-31T06:28:06",
+              "date_modified": "2020-02-01T04:28:06",
+              "date_modified_gmt": "2020-01-31T06:28:06",
+              "src": "https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2019/12/Cascade.png",
+              "name": "Cascade",
+              "alt": ""
+          }
+      ],
+      "attributes": [
+          {
+              "id": 1,
+              "name": "Capacity",
+              "position": 0,
+              "visible": true,
+              "variation": true,
+              "options": [
+                  "Cascade Water Truck",
+                  "Storm Water Truck"
+              ]
+          }
+      ],
+      "default_attributes": [],
+      "variations": [
+          41928,
+          41929
+      ],
+      "grouped_products": [],
+      "menu_order": 0,
+      "meta_data": [
+      ],
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<!-- Admin only notice: this page does not show a meta description because it does not have one, either write it for this page specifically or go into the [SEO - Search Appearance] menu and set up a template. -->\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta name=\"bingbot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://dev.tti.com.au/product/factory-fitted/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Factory Fitted - Chassis Mount Water Cart - Trans Tank® International (TTi)\" />\n<meta property=\"og:description\" content=\"FloodRite? Chassis Mount Water Cart Trucks have been carefully engineered to offer a complete solution for Dust Suppression, soil conditioning and water transfer, that works every time. FloodRite? is the number one choice for contractors, councils and hire companies across Australia, and boasts a huge range of user friendly functions to help make your life [&hellip;]\" />\n<meta property=\"og:url\" content=\"https://dev.tti.com.au/product/factory-fitted/\" />\n<meta property=\"og:site_name\" content=\"Trans Tank® International (TTi)\" />\n<meta property=\"article:modified_time\" content=\"2020-07-02T11:37:34+00:00\" />\n<meta property=\"og:image\" content=\"https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2019/12/Cascade.png\" />\n\t<meta property=\"og:image:width\" content=\"800\" />\n\t<meta property=\"og:image:height\" content=\"450\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://dev.tti.com.au/#website\",\"url\":\"https://dev.tti.com.au/\",\"name\":\"Trans Tank\\u00ae International (TTi)\",\"description\":\"The Safest Tanks in Motion\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://dev.tti.com.au/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-AU\"},{\"@type\":\"ImageObject\",\"@id\":\"https://dev.tti.com.au/product/factory-fitted/#primaryimage\",\"inLanguage\":\"en-AU\",\"url\":\"https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2019/12/Cascade.png\",\"width\":800,\"height\":450},{\"@type\":\"WebPage\",\"@id\":\"https://dev.tti.com.au/product/factory-fitted/#webpage\",\"url\":\"https://dev.tti.com.au/product/factory-fitted/\",\"name\":\"Factory Fitted - Chassis Mount Water Cart - Trans Tank\\u00ae International (TTi)\",\"isPartOf\":{\"@id\":\"https://dev.tti.com.au/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://dev.tti.com.au/product/factory-fitted/#primaryimage\"},\"datePublished\":\"2020-06-18T02:53:52+00:00\",\"dateModified\":\"2020-07-02T11:37:34+00:00\",\"inLanguage\":\"en-AU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://dev.tti.com.au/product/factory-fitted/\"]}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "_links": {
+          "self": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/41927"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products"
+              }
+          ]
+      }
+  },
+  {
+      "id": 41923,
+      "name": "Remote Supplied - Chassis Mount Water Cart",
+      "slug": "remote-supply",
+      "permalink": "https://dev.tti.com.au/product/remote-supply/",
+      "date_created": "2020-06-17T07:59:07",
+      "date_created_gmt": "2020-06-16T21:59:07",
+      "date_modified": "2020-07-02T21:36:05",
+      "date_modified_gmt": "2020-07-02T11:36:05",
+      "type": "variable",
+      "status": "publish",
+      "featured": false,
+      "catalog_visibility": "visible",
+      "description": "<p>FloodRite? Chassis Mount Water Cart Trucks have been carefully engineered to offer a complete solution for Dust Suppression, soil conditioning and water transfer, that works every time. FloodRite? is the number one choice for contractors, councils and hire companies across Australia, and boasts a huge range of user friendly functions to help make your life easier. The FloodRite? range is manufactured entirely by TTi in Melbourne, VIC, and is distributed throughout Australia</p>\n",
+      "short_description": "",
+      "sku": "remote-supply",
+      "price": 0,
+      "regular_price": "",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_from_gmt": null,
+      "date_on_sale_to": null,
+      "date_on_sale_to_gmt": null,
+      "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>0.00</span>",
+      "on_sale": false,
+      "purchasable": true,
+      "total_sales": 0,
+      "virtual": false,
+      "downloadable": false,
+      "downloads": [],
+      "download_limit": 0,
+      "download_expiry": 0,
+      "external_url": "",
+      "button_text": "",
+      "tax_status": "taxable",
+      "tax_class": "",
+      "manage_stock": true,
+      "stock_quantity": 500,
+      "stock_status": "instock",
+      "backorders": "no",
+      "backorders_allowed": false,
+      "backordered": false,
+      "sold_individually": false,
+      "weight": "",
+      "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+      },
+      "shipping_required": true,
+      "shipping_taxable": true,
+      "shipping_class": "",
+      "shipping_class_id": 0,
+      "reviews_allowed": true,
+      "average_rating": "0.00",
+      "rating_count": 0,
+      "related_ids": [
+          28198,
+          28287,
+          28200,
+          28161,
+          28208
+      ],
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "purchase_note": "",
+      "categories": [
+          {
+              "id": 950,
+              "name": "Water Trucks - Factory Fitted",
+              "slug": "civil-factory-fitout"
+          },
+          {
+              "id": 30,
+              "name": "Civil Water Carts",
+              "slug": "civil-water-cartage-tanks"
+          },
+          {
+              "id": 498,
+              "name": "Water Trucks",
+              "slug": "water-trucks"
+          }
+      ],
+      "tags": [],
+      "images": [
+          {
+              "id": 36541,
+              "date_created": "2020-02-01T05:29:13",
+              "date_created_gmt": "2020-01-31T07:29:13",
+              "date_modified": "2020-02-01T05:30:01",
+              "date_modified_gmt": "2020-01-31T07:30:01",
+              "src": "https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/01/Storm.png",
+              "name": "Storm",
+              "alt": ""
+          }
+      ],
+      "attributes": [
+          {
+              "id": 1,
+              "name": "Capacity",
+              "position": 0,
+              "visible": true,
+              "variation": true,
+              "options": [
+                  "Chassis Mount AquaModule",
+                  "Container Mount AquaModule",
+                  "Hooklift AquaModule"
+              ]
+          }
+      ],
+      "default_attributes": [],
+      "variations": [
+          41926,
+          41924,
+          41925
+      ],
+      "grouped_products": [],
+      "menu_order": 0,
+      "meta_data": [
+      ],
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<!-- Admin only notice: this page does not show a meta description because it does not have one, either write it for this page specifically or go into the [SEO - Search Appearance] menu and set up a template. -->\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta name=\"bingbot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://dev.tti.com.au/product/remote-supply/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Remote Supplied - Chassis Mount Water Cart - Trans Tank® International (TTi)\" />\n<meta property=\"og:description\" content=\"FloodRite? Chassis Mount Water Cart Trucks have been carefully engineered to offer a complete solution for Dust Suppression, soil conditioning and water transfer, that works every time. FloodRite? is the number one choice for contractors, councils and hire companies across Australia, and boasts a huge range of user friendly functions to help make your life [&hellip;]\" />\n<meta property=\"og:url\" content=\"https://dev.tti.com.au/product/remote-supply/\" />\n<meta property=\"og:site_name\" content=\"Trans Tank® International (TTi)\" />\n<meta property=\"article:modified_time\" content=\"2020-07-02T11:36:05+00:00\" />\n<meta property=\"og:image\" content=\"https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/01/Storm.png\" />\n\t<meta property=\"og:image:width\" content=\"800\" />\n\t<meta property=\"og:image:height\" content=\"450\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://dev.tti.com.au/#website\",\"url\":\"https://dev.tti.com.au/\",\"name\":\"Trans Tank\\u00ae International (TTi)\",\"description\":\"The Safest Tanks in Motion\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://dev.tti.com.au/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-AU\"},{\"@type\":\"ImageObject\",\"@id\":\"https://dev.tti.com.au/product/remote-supply/#primaryimage\",\"inLanguage\":\"en-AU\",\"url\":\"https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/01/Storm.png\",\"width\":800,\"height\":450},{\"@type\":\"WebPage\",\"@id\":\"https://dev.tti.com.au/product/remote-supply/#webpage\",\"url\":\"https://dev.tti.com.au/product/remote-supply/\",\"name\":\"Remote Supplied - Chassis Mount Water Cart - Trans Tank\\u00ae International (TTi)\",\"isPartOf\":{\"@id\":\"https://dev.tti.com.au/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://dev.tti.com.au/product/remote-supply/#primaryimage\"},\"datePublished\":\"2020-06-16T21:59:07+00:00\",\"dateModified\":\"2020-07-02T11:36:05+00:00\",\"inLanguage\":\"en-AU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://dev.tti.com.au/product/remote-supply/\"]}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "_links": {
+          "self": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/41923"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products"
+              }
+          ]
+      }
+  },
+  {
+      "id": 41853,
+      "name": "DieselPatrol14™ Refuelling Trailer",
+      "slug": "dieselpatrol14-refuelling-trailer",
+      "permalink": "https://dev.tti.com.au/product/dieselpatrol14-refuelling-trailer/",
+      "date_created": "2020-06-09T15:47:06",
+      "date_created_gmt": "2020-06-09T05:47:06",
+      "date_modified": "2020-07-02T21:25:00",
+      "date_modified_gmt": "2020-07-02T11:25:00",
+      "type": "variable",
+      "status": "publish",
+      "featured": false,
+      "catalog_visibility": "visible",
+      "description": "<p>TTi?s DieselPatrol Trailers provide safe and hassle free refueling for your plant and equipment. Our diesel refueling trailers feature a robust galvanized chassis, moulded poly diesel tanks, high flow pumps and hose reels, ultimately delivering effortless refueling of equipment.</p>\n",
+      "short_description": "<ul>\n<li>Exceptionally smooth towing with excellent weight distribution</li>\n<li>Manufactured from specifically formulated diesel grade polyethylene that meets International Regulation ECE R34.01 requirements, and complies with AS1940-2004 and AS2809.2-2008</li>\n<li>15 Year Tank Warranty</li>\n<li>Safety Ball Baffle system fitted</li>\n<li>Built to high level ADR requirements, with heavy duty steel chassis featuring hot-dip galvanising for maximum protection for tough, long term durable performance</li>\n<li>Large 15? wheels with the famous Landcruiser hub pattern for strength, maximum ground clearance and excellent manoeuvrability</li>\n<li>Heavy duty chequer plate mudguards</li>\n<li>Greatly improved puncture resistance with our 6 ply radial tyres, which also helps heavy load capability</li>\n<li>50mm tow hitch</li>\n<li>Heavy duty jockey wheel</li>\n<li>Engineered for safety</li>\n<li>LED tail lights recessed in rear light board</li>\n<li>Large 50mm solid axle with high ground clearance</li>\n<li>Road Registerable Trailer with Hydraulic Brakes</li>\n</ul>\n",
+      "sku": "DieselPatrol",
+      "price": "7321",
+      "regular_price": "",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_from_gmt": null,
+      "date_on_sale_to": null,
+      "date_on_sale_to_gmt": null,
+      "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>7,321.00</span> &ndash; <span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>9,034.00</span>",
+      "on_sale": false,
+      "purchasable": true,
+      "total_sales": 0,
+      "virtual": false,
+      "downloadable": false,
+      "downloads": [],
+      "download_limit": 0,
+      "download_expiry": 0,
+      "external_url": "",
+      "button_text": "",
+      "tax_status": "taxable",
+      "tax_class": "",
+      "manage_stock": true,
+      "stock_quantity": 500,
+      "stock_status": "instock",
+      "backorders": "no",
+      "backorders_allowed": false,
+      "backordered": false,
+      "sold_individually": false,
+      "weight": "",
+      "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+      },
+      "shipping_required": true,
+      "shipping_taxable": true,
+      "shipping_class": "",
+      "shipping_class_id": 0,
+      "reviews_allowed": true,
+      "average_rating": "0.00",
+      "rating_count": 0,
+      "related_ids": [
+          27614,
+          27786,
+          27666,
+          27726,
+          27725
+      ],
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "purchase_note": "",
+      "categories": [
+          {
+              "id": 515,
+              "name": "Diesel Fuel Trailers",
+              "slug": "diesel-fuel-trailers"
+          },
+          {
+              "id": 512,
+              "name": "Diesel Tanks",
+              "slug": "poly-diesel-fuel-tanks"
+          }
+      ],
+      "tags": [],
+      "images": [
+          {
+              "id": 41859,
+              "date_created": "2020-06-10T02:30:57",
+              "date_created_gmt": "2020-06-09T06:30:57",
+              "date_modified": "2020-06-10T02:40:14",
+              "date_modified_gmt": "2020-06-09T06:40:14",
+              "src": "https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/06/DieselPatrol14-1000L.png",
+              "name": "DieselPatrol14-1000L",
+              "alt": ""
+          }
+      ],
+      "attributes": [
+          {
+              "id": 1,
+              "name": "Capacity",
+              "position": 0,
+              "visible": true,
+              "variation": true,
+              "options": [
+                  "1,000 Litres (60L/min Pump)",
+                  "1,000 Litres (Braked)",
+                  "1,000 Litres (Unbraked)",
+                  "1,200 Litres (Braked)",
+                  "1,200 Litres (Unbraked)",
+                  "1,500 Litres (Braked)",
+                  "1,500 Litres (Unbraked)",
+                  "1000L - Braked",
+                  "1000L - Unbraked",
+                  "1000L - Unbraked Trailer with 45L/min Pump &amp; Lights",
+                  "1200L - Braked",
+                  "1200L - Unbraked",
+                  "1500L - Braked",
+                  "1500L - Unbraked",
+                  "2,000 Litres (Braked)",
+                  "2,000 Litres (Unbraked)",
+                  "2,400 Litres (Braked)",
+                  "2,400 Litres (Unbraked)",
+                  "2000L - Braked",
+                  "2000L - Unbraked",
+                  "2400L - Braked",
+                  "2400L - Unbraked",
+                  "3,000 Litres (Braked)",
+                  "3,000 Litres (Unbraked)",
+                  "3000L - Braked",
+                  "3000L - Unbraked",
+                  "600L - Braked",
+                  "600L - Unbraked",
+                  "800 Litres (Braked)",
+                  "800 Litres (Unbraked)",
+                  "DieselPatrol14 1000L (Braked)",
+                  "DieselPatrol14 1000L (Unbraked)"
+              ]
+          }
+      ],
+      "default_attributes": [
+          {
+              "id": 1,
+              "name": "Capacity",
+              "option": "1000-litres-unbraked"
+          }
+      ],
+      "variations": [
+          41857,
+          41856
+      ],
+      "grouped_products": [],
+      "menu_order": 0,
+      "meta_data": [
+      ],
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<!-- Admin only notice: this page does not show a meta description because it does not have one, either write it for this page specifically or go into the [SEO - Search Appearance] menu and set up a template. -->\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta name=\"bingbot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://dev.tti.com.au/product/dieselpatrol14-refuelling-trailer/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"DieselPatrol14™ Refuelling Trailer - Trans Tank® International (TTi)\" />\n<meta property=\"og:description\" content=\"Exceptionally smooth towing with excellent weight distribution  Manufactured from specifically formulated diesel grade polyethylene that meets International Regulation ECE R34.01 requirements, and complies with AS1940-2004 and AS2809.2-2008  15 Year Tank Warranty  Safety Ball Baffle system fitted  Built to high level ADR requirements, with heavy duty steel chassis featuring hot-dip galvanising for maximum protection for tough, long term durable performance  Large 15? wheels with the famous Landcruiser hub pattern for strength, maximum ground clearance and excellent manoeuvrability  Heavy duty chequer plate mudguards  Greatly improved puncture resistance with our 6 ply radial tyres, which also helps heavy load capability  50mm tow hitch  Heavy duty jockey wheel  Engineered for safety  LED tail lights recessed in rear light board  Large 50mm solid axle with high ground clearance  Road Registerable Trailer with Hydraulic Brakes\" />\n<meta property=\"og:url\" content=\"https://dev.tti.com.au/product/dieselpatrol14-refuelling-trailer/\" />\n<meta property=\"og:site_name\" content=\"Trans Tank® International (TTi)\" />\n<meta property=\"article:modified_time\" content=\"2020-07-02T11:25:00+00:00\" />\n<meta property=\"og:image\" content=\"https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/06/DieselPatrol14-1000L.png\" />\n\t<meta property=\"og:image:width\" content=\"1200\" />\n\t<meta property=\"og:image:height\" content=\"675\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://dev.tti.com.au/#website\",\"url\":\"https://dev.tti.com.au/\",\"name\":\"Trans Tank\\u00ae International (TTi)\",\"description\":\"The Safest Tanks in Motion\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://dev.tti.com.au/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-AU\"},{\"@type\":\"ImageObject\",\"@id\":\"https://dev.tti.com.au/product/dieselpatrol14-refuelling-trailer/#primaryimage\",\"inLanguage\":\"en-AU\",\"url\":\"https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/06/DieselPatrol14-1000L.png\",\"width\":1200,\"height\":675},{\"@type\":\"WebPage\",\"@id\":\"https://dev.tti.com.au/product/dieselpatrol14-refuelling-trailer/#webpage\",\"url\":\"https://dev.tti.com.au/product/dieselpatrol14-refuelling-trailer/\",\"name\":\"DieselPatrol14\\u2122 Refuelling Trailer - Trans Tank\\u00ae International (TTi)\",\"isPartOf\":{\"@id\":\"https://dev.tti.com.au/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://dev.tti.com.au/product/dieselpatrol14-refuelling-trailer/#primaryimage\"},\"datePublished\":\"2020-06-09T05:47:06+00:00\",\"dateModified\":\"2020-07-02T11:25:00+00:00\",\"inLanguage\":\"en-AU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://dev.tti.com.au/product/dieselpatrol14-refuelling-trailer/\"]}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "_links": {
+          "self": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/41853"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products"
+              }
+          ]
+      }
+  },
+  {
+      "id": 41284,
+      "name": "NEW 50m SuperReel Auto-Rewind Reel",
+      "slug": "new-50m-superreel-auto-rewind-reel",
+      "permalink": "https://dev.tti.com.au/product/new-50m-superreel-auto-rewind-reel/",
+      "date_created": "2020-05-11T13:05:12",
+      "date_created_gmt": "2020-05-11T03:05:12",
+      "date_modified": "2020-06-19T17:01:27",
+      "date_modified_gmt": "2020-06-19T07:01:27",
+      "type": "simple",
+      "status": "publish",
+      "featured": false,
+      "catalog_visibility": "visible",
+      "description": "<p>150m electric 12V auto rewind hose reel complete with nylon hose and spray gun.</p>\n",
+      "short_description": "<ul>\n<li>NEW fully enclosed frame design minimises pinch points</li>\n<li></li>\n<li>Nylon bearing housing with stainless bearing elminates chances of rust</li>\n<li>Stainless steel shaft</li>\n<li>Powerful 120W electric motor with auto overload cut-off</li>\n<li>Single channel wireless remote transmits up to 200m in uneven terrain!</li>\n<li>Unique &#8220;Transport mode&#8221; braking technology</li>\n<li>Manual override button and isolation switch</li>\n<li>Tough powdercoated finish</li>\n<li>L x W x H: 810 x 355 x 665 (mm)</li>\n</ul>\n",
+      "sku": "ATHR050M10",
+      "price": "2950",
+      "regular_price": "2950",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_from_gmt": null,
+      "date_on_sale_to": null,
+      "date_on_sale_to_gmt": null,
+      "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>2,950.00</span>",
+      "on_sale": false,
+      "purchasable": true,
+      "total_sales": 0,
+      "virtual": false,
+      "downloadable": false,
+      "downloads": [],
+      "download_limit": 0,
+      "download_expiry": 0,
+      "external_url": "",
+      "button_text": "",
+      "tax_status": "taxable",
+      "tax_class": "",
+      "manage_stock": true,
+      "stock_quantity": 100,
+      "stock_status": "instock",
+      "backorders": "no",
+      "backorders_allowed": false,
+      "backordered": false,
+      "sold_individually": false,
+      "weight": "0",
+      "dimensions": {
+          "length": "600",
+          "width": "355",
+          "height": "450"
+      },
+      "shipping_required": true,
+      "shipping_taxable": true,
+      "shipping_class": "",
+      "shipping_class_id": 0,
+      "reviews_allowed": false,
+      "average_rating": "0.00",
+      "rating_count": 0,
+      "related_ids": [
+          28174,
+          28211,
+          28153,
+          28182,
+          28143
+      ],
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "purchase_note": "",
+      "categories": [
+          {
+              "id": 539,
+              "name": "Spray",
+              "slug": "spray"
+          },
+          {
+              "id": 579,
+              "name": "Upgrades",
+              "slug": "upgrades"
+          },
+          {
+              "id": 538,
+              "name": "Parts and Accessories",
+              "slug": "parts-and-accessories"
+          },
+          {
+              "id": 553,
+              "name": "Hose Reels",
+              "slug": "hose-reels"
+          }
+      ],
+      "tags": [],
+      "images": [
+          {
+              "id": 40788,
+              "date_created": "2020-04-15T01:17:57",
+              "date_created_gmt": "2020-04-14T05:17:57",
+              "date_modified": "2020-04-15T01:17:57",
+              "date_modified_gmt": "2020-04-14T05:17:57",
+              "src": "https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/04/SuperReel-50-190813-.jpg",
+              "name": "SuperReel-50-190813-",
+              "alt": ""
+          }
+      ],
+      "attributes": [],
+      "default_attributes": [],
+      "variations": [],
+      "grouped_products": [],
+      "menu_order": 0,
+      "meta_data": [
+      ],
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<meta name=\"description\" content=\"Designed to perform in the toughest terrain, the remote controlled SuperReel 50 spray reel is guaranteed to make your job quick, easy and safe!\" />\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta name=\"bingbot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://dev.tti.com.au/product/new-50m-superreel-auto-rewind-reel/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"NEW 50m SuperReel Auto-Rewind Reel - Trans Tank® International (TTi)\" />\n<meta property=\"og:description\" content=\"Designed to perform in the toughest terrain, the remote controlled SuperReel 50 spray reel is guaranteed to make your job quick, easy and safe!\" />\n<meta property=\"og:url\" content=\"https://dev.tti.com.au/product/new-50m-superreel-auto-rewind-reel/\" />\n<meta property=\"og:site_name\" content=\"Trans Tank® International (TTi)\" />\n<meta property=\"article:modified_time\" content=\"2020-06-19T07:01:27+00:00\" />\n<meta property=\"og:image\" content=\"https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/04/SuperReel-50-190813-.jpg\" />\n\t<meta property=\"og:image:width\" content=\"2400\" />\n\t<meta property=\"og:image:height\" content=\"1800\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://dev.tti.com.au/#website\",\"url\":\"https://dev.tti.com.au/\",\"name\":\"Trans Tank\\u00ae International (TTi)\",\"description\":\"The Safest Tanks in Motion\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://dev.tti.com.au/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-AU\"},{\"@type\":\"ImageObject\",\"@id\":\"https://dev.tti.com.au/product/new-50m-superreel-auto-rewind-reel/#primaryimage\",\"inLanguage\":\"en-AU\",\"url\":\"https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/04/SuperReel-50-190813-.jpg\",\"width\":2400,\"height\":1800},{\"@type\":\"WebPage\",\"@id\":\"https://dev.tti.com.au/product/new-50m-superreel-auto-rewind-reel/#webpage\",\"url\":\"https://dev.tti.com.au/product/new-50m-superreel-auto-rewind-reel/\",\"name\":\"NEW 50m SuperReel Auto-Rewind Reel - Trans Tank\\u00ae International (TTi)\",\"isPartOf\":{\"@id\":\"https://dev.tti.com.au/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://dev.tti.com.au/product/new-50m-superreel-auto-rewind-reel/#primaryimage\"},\"datePublished\":\"2020-05-11T03:05:12+00:00\",\"dateModified\":\"2020-06-19T07:01:27+00:00\",\"description\":\"Designed to perform in the toughest terrain, the remote controlled SuperReel 50 spray reel is guaranteed to make your job quick, easy and safe!\",\"inLanguage\":\"en-AU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://dev.tti.com.au/product/new-50m-superreel-auto-rewind-reel/\"]}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "_links": {
+          "self": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/41284"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products"
+              }
+          ]
+      }
+  },
+  {
+      "id": 40784,
+      "name": "NEW 50m SuperReel Auto-Rewind Reel Upgrade",
+      "slug": "new-50m-superreel-auto-rewind-reel-upgrade",
+      "permalink": "https://dev.tti.com.au/product/new-50m-superreel-auto-rewind-reel-upgrade/",
+      "date_created": "2020-04-14T15:01:20",
+      "date_created_gmt": "2020-04-14T05:01:20",
+      "date_modified": "2020-06-19T17:01:27",
+      "date_modified_gmt": "2020-06-19T07:01:27",
+      "type": "simple",
+      "status": "publish",
+      "featured": false,
+      "catalog_visibility": "visible",
+      "description": "<p>150m electric 12V auto rewind hose reel complete with nylon hose and spray gun.</p>\n",
+      "short_description": "<ul>\n<li>NEW fully enclosed frame design minimises pinch points</li>\n<li></li>\n<li>Nylon bearing housing with stainless bearing elminates chances of rust</li>\n<li>Stainless steel shaft</li>\n<li>Powerful 120W electric motor with auto overload cut-off</li>\n<li>Single channel wireless remote transmits up to 200m in uneven terrain!</li>\n<li>Unique &#8220;Transport mode&#8221; braking technology</li>\n<li>Manual override button and isolation switch</li>\n<li>Tough powdercoated finish</li>\n<li>L x W x H: 810 x 355 x 665 (mm)</li>\n</ul>\n",
+      "sku": "ATHR050M10_UP",
+      "price": "2380",
+      "regular_price": "2380",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_from_gmt": null,
+      "date_on_sale_to": null,
+      "date_on_sale_to_gmt": null,
+      "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>2,380.00</span>",
+      "on_sale": false,
+      "purchasable": true,
+      "total_sales": 0,
+      "virtual": false,
+      "downloadable": false,
+      "downloads": [],
+      "download_limit": 0,
+      "download_expiry": 0,
+      "external_url": "",
+      "button_text": "",
+      "tax_status": "taxable",
+      "tax_class": "",
+      "manage_stock": true,
+      "stock_quantity": 100,
+      "stock_status": "instock",
+      "backorders": "no",
+      "backorders_allowed": false,
+      "backordered": false,
+      "sold_individually": false,
+      "weight": "0",
+      "dimensions": {
+          "length": "600",
+          "width": "355",
+          "height": "450"
+      },
+      "shipping_required": true,
+      "shipping_taxable": true,
+      "shipping_class": "",
+      "shipping_class_id": 0,
+      "reviews_allowed": false,
+      "average_rating": "0.00",
+      "rating_count": 0,
+      "related_ids": [
+          28148,
+          28120,
+          28178,
+          28182,
+          28214
+      ],
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "purchase_note": "",
+      "categories": [
+          {
+              "id": 579,
+              "name": "Upgrades",
+              "slug": "upgrades"
+          },
+          {
+              "id": 538,
+              "name": "Parts and Accessories",
+              "slug": "parts-and-accessories"
+          }
+      ],
+      "tags": [],
+      "images": [
+          {
+              "id": 40788,
+              "date_created": "2020-04-15T01:17:57",
+              "date_created_gmt": "2020-04-14T05:17:57",
+              "date_modified": "2020-04-15T01:17:57",
+              "date_modified_gmt": "2020-04-14T05:17:57",
+              "src": "https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/04/SuperReel-50-190813-.jpg",
+              "name": "SuperReel-50-190813-",
+              "alt": ""
+          }
+      ],
+      "attributes": [],
+      "default_attributes": [],
+      "variations": [],
+      "grouped_products": [],
+      "menu_order": 0,
+      "meta_data": [
+      ],
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<meta name=\"description\" content=\"Designed to perform in the toughest terrain, the remote controlled SuperReel 50 spray reel is guaranteed to make your job quick, easy and safe!\" />\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta name=\"bingbot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://dev.tti.com.au/product/new-50m-superreel-auto-rewind-reel-upgrade/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"NEW 50m SuperReel Auto-Rewind Reel Upgrade - Trans Tank® International (TTi)\" />\n<meta property=\"og:description\" content=\"Designed to perform in the toughest terrain, the remote controlled SuperReel 50 spray reel is guaranteed to make your job quick, easy and safe!\" />\n<meta property=\"og:url\" content=\"https://dev.tti.com.au/product/new-50m-superreel-auto-rewind-reel-upgrade/\" />\n<meta property=\"og:site_name\" content=\"Trans Tank® International (TTi)\" />\n<meta property=\"article:modified_time\" content=\"2020-06-19T07:01:27+00:00\" />\n<meta property=\"og:image\" content=\"https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/04/SuperReel-50-190813-.jpg\" />\n\t<meta property=\"og:image:width\" content=\"2400\" />\n\t<meta property=\"og:image:height\" content=\"1800\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://dev.tti.com.au/#website\",\"url\":\"https://dev.tti.com.au/\",\"name\":\"Trans Tank\\u00ae International (TTi)\",\"description\":\"The Safest Tanks in Motion\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://dev.tti.com.au/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-AU\"},{\"@type\":\"ImageObject\",\"@id\":\"https://dev.tti.com.au/product/new-50m-superreel-auto-rewind-reel-upgrade/#primaryimage\",\"inLanguage\":\"en-AU\",\"url\":\"https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/04/SuperReel-50-190813-.jpg\",\"width\":2400,\"height\":1800},{\"@type\":\"WebPage\",\"@id\":\"https://dev.tti.com.au/product/new-50m-superreel-auto-rewind-reel-upgrade/#webpage\",\"url\":\"https://dev.tti.com.au/product/new-50m-superreel-auto-rewind-reel-upgrade/\",\"name\":\"NEW 50m SuperReel Auto-Rewind Reel Upgrade - Trans Tank\\u00ae International (TTi)\",\"isPartOf\":{\"@id\":\"https://dev.tti.com.au/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://dev.tti.com.au/product/new-50m-superreel-auto-rewind-reel-upgrade/#primaryimage\"},\"datePublished\":\"2020-04-14T05:01:20+00:00\",\"dateModified\":\"2020-06-19T07:01:27+00:00\",\"description\":\"Designed to perform in the toughest terrain, the remote controlled SuperReel 50 spray reel is guaranteed to make your job quick, easy and safe!\",\"inLanguage\":\"en-AU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://dev.tti.com.au/product/new-50m-superreel-auto-rewind-reel-upgrade/\"]}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "_links": {
+          "self": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/40784"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products"
+              }
+          ]
+      }
+  },
+  {
+      "id": 40454,
+      "name": "ProVent™ UTV Sprayer",
+      "slug": "provent-utv-sprayer",
+      "permalink": "https://dev.tti.com.au/product/provent-utv-sprayer/",
+      "date_created": "2020-04-02T13:09:05",
+      "date_created_gmt": "2020-04-02T02:09:05",
+      "date_modified": "2020-06-02T10:33:31",
+      "date_modified_gmt": "2020-06-02T00:33:31",
+      "type": "variable",
+      "status": "publish",
+      "featured": false,
+      "catalog_visibility": "visible",
+      "description": "<p>Possibly the most unique and well-designed UTV Sprayer, the OnDeck suits the UTV tubs and the ever growing UTV market. The 300L model comes in a clever choice of pump, motor and hose reel combinations. From weed spraying to firefighting, the OnDeck range is sure to be a valuable investment.</p>\n",
+      "short_description": "",
+      "sku": "OnDeck-1",
+      "price": "1339",
+      "regular_price": "",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_from_gmt": null,
+      "date_on_sale_to": null,
+      "date_on_sale_to_gmt": null,
+      "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>1,339.00</span> &ndash; <span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>4,615.00</span>",
+      "on_sale": false,
+      "purchasable": true,
+      "total_sales": 0,
+      "virtual": false,
+      "downloadable": false,
+      "downloads": [],
+      "download_limit": 0,
+      "download_expiry": 0,
+      "external_url": "",
+      "button_text": "",
+      "tax_status": "taxable",
+      "tax_class": "",
+      "manage_stock": true,
+      "stock_quantity": 500,
+      "stock_status": "instock",
+      "backorders": "no",
+      "backorders_allowed": false,
+      "backordered": false,
+      "sold_individually": false,
+      "weight": "",
+      "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+      },
+      "shipping_required": true,
+      "shipping_taxable": true,
+      "shipping_class": "",
+      "shipping_class_id": 0,
+      "reviews_allowed": true,
+      "average_rating": "0.00",
+      "rating_count": 0,
+      "related_ids": [
+          27018,
+          40444,
+          40422,
+          27129
+      ],
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "purchase_note": "",
+      "categories": [
+          {
+              "id": 939,
+              "name": "ProVent Disinfectant Sprayers",
+              "slug": "provent-disinfectant-sprayers"
+          }
+      ],
+      "tags": [],
+      "images": [
+          {
+              "id": 37630,
+              "date_created": "2020-02-27T23:24:02",
+              "date_created_gmt": "2020-02-27T01:24:02",
+              "date_modified": "2020-02-27T23:24:15",
+              "date_modified_gmt": "2020-02-27T01:24:15",
+              "src": "https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/02/OnDeck.png",
+              "name": "OnDeck",
+              "alt": ""
+          }
+      ],
+      "attributes": [
+          {
+              "id": 1,
+              "name": "Capacity",
+              "position": 0,
+              "visible": true,
+              "variation": true,
+              "options": [
+                  "150 Litres (7.5L/min Pump)",
+                  "150 Litres (7.5L/min Pump) 30m Hose Reel",
+                  "150L - 12v Pump",
+                  "150L - 12v Pump &amp; 30m Hose Reel",
+                  "150L UTV Sprayer with 7.5L/min 12V Pump",
+                  "150L UTV Sprayer with 7.5L/min 12V Pump &amp; 30m Hose Reel",
+                  "300 Litres (7.5L/min Pump) 30m Hose Reel",
+                  "300 Litres (7.5L/min Pump) 30m Hose Reel (Compact)",
+                  "300 Litres (Honda GX200) 30m Hose Reel",
+                  "300 Litres (Honda GX200) 30m Hose Reel (Compact)",
+                  "300 Litres (Honda GX35) 30m Hose Reel",
+                  "300 Litres (Honda GX35) 30m Hose Reel (Compact)",
+                  "300L - 12v Pump (Compact)",
+                  "300L - 12v Pump (Standard)",
+                  "300L - 12v Pump &amp; 30m Reel (Compact)",
+                  "300L - Honda GX200 (Compact)",
+                  "300L - Honda GX200 (Standard)",
+                  "300L - Honda GX200 &amp; 30m Reel (Compact)",
+                  "300L - Honda GX200 &amp; 30m Reel (Standard)",
+                  "300L - Honda GX35 (Compact)",
+                  "300L - Honda GX35 (Standard)",
+                  "300L - Honda GX35 &amp; 30m Reel (Compact)",
+                  "300L - Honda GX35 &amp; 30m Reel (Standard)"
+              ]
+          }
+      ],
+      "default_attributes": [],
+      "variations": [
+          40455,
+          40456,
+          40457,
+          40458,
+          40459,
+          40460,
+          40461,
+          40462
+      ],
+      "grouped_products": [],
+      "menu_order": 0,
+      "meta_data": [
+      ],
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<meta name=\"description\" content=\"TTi ProVent UTV Sprayer is suitable for disinfection, cleaning and sanitation applications. Contact TTi today to find out more!\" />\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta name=\"bingbot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://dev.tti.com.au/product/provent-utv-sprayer/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"ProVent™ UTV Sprayer - Trans Tank® International (TTi)\" />\n<meta property=\"og:description\" content=\"TTi ProVent UTV Sprayer is suitable for disinfection, cleaning and sanitation applications. Contact TTi today to find out more!\" />\n<meta property=\"og:url\" content=\"https://dev.tti.com.au/product/provent-utv-sprayer/\" />\n<meta property=\"og:site_name\" content=\"Trans Tank® International (TTi)\" />\n<meta property=\"article:modified_time\" content=\"2020-06-02T00:33:31+00:00\" />\n<meta property=\"og:image\" content=\"https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/02/OnDeck.png\" />\n\t<meta property=\"og:image:width\" content=\"800\" />\n\t<meta property=\"og:image:height\" content=\"450\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://dev.tti.com.au/#website\",\"url\":\"https://dev.tti.com.au/\",\"name\":\"Trans Tank\\u00ae International (TTi)\",\"description\":\"The Safest Tanks in Motion\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://dev.tti.com.au/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-AU\"},{\"@type\":\"ImageObject\",\"@id\":\"https://dev.tti.com.au/product/provent-utv-sprayer/#primaryimage\",\"inLanguage\":\"en-AU\",\"url\":\"https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/02/OnDeck.png\",\"width\":800,\"height\":450},{\"@type\":\"WebPage\",\"@id\":\"https://dev.tti.com.au/product/provent-utv-sprayer/#webpage\",\"url\":\"https://dev.tti.com.au/product/provent-utv-sprayer/\",\"name\":\"ProVent\\u2122 UTV Sprayer - Trans Tank\\u00ae International (TTi)\",\"isPartOf\":{\"@id\":\"https://dev.tti.com.au/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://dev.tti.com.au/product/provent-utv-sprayer/#primaryimage\"},\"datePublished\":\"2020-04-02T02:09:05+00:00\",\"dateModified\":\"2020-06-02T00:33:31+00:00\",\"description\":\"TTi ProVent UTV Sprayer is suitable for disinfection, cleaning and sanitation applications. Contact TTi today to find out more!\",\"inLanguage\":\"en-AU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://dev.tti.com.au/product/provent-utv-sprayer/\"]}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "_links": {
+          "self": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/40454"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products"
+              }
+          ]
+      }
+  },
+  {
+      "id": 40444,
+      "name": "ProVent™ 12 Volt Disinfectant Sprayer",
+      "slug": "provent-12-volt-spot-sprayer",
+      "permalink": "https://dev.tti.com.au/product/provent-12-volt-spot-sprayer/",
+      "date_created": "2020-04-02T12:41:02",
+      "date_created_gmt": "2020-04-02T01:41:02",
+      "date_modified": "2020-05-19T10:12:00",
+      "date_modified_gmt": "2020-05-19T00:12:00",
+      "type": "variable",
+      "status": "publish",
+      "featured": false,
+      "catalog_visibility": "visible",
+      "description": "<p>The ReelStrike, a TTi icon sprayer that has proved itself over many years as the most versatile and reliable professional 12v sprayer in our TTi range. The 30m reel allows you to access those ?hard to get to? areas, while the 100psi pump gives you that extra pressure when you needing to hit your spray target from a distance.</p>\n",
+      "short_description": "",
+      "sku": "ReelStrike-1",
+      "price": "1340",
+      "regular_price": "",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_from_gmt": null,
+      "date_on_sale_to": null,
+      "date_on_sale_to_gmt": null,
+      "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>1,340.00</span> &ndash; <span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>2,931.00</span>",
+      "on_sale": false,
+      "purchasable": true,
+      "total_sales": 0,
+      "virtual": false,
+      "downloadable": false,
+      "downloads": [],
+      "download_limit": 0,
+      "download_expiry": 0,
+      "external_url": "",
+      "button_text": "",
+      "tax_status": "taxable",
+      "tax_class": "",
+      "manage_stock": true,
+      "stock_quantity": 500,
+      "stock_status": "instock",
+      "backorders": "no",
+      "backorders_allowed": false,
+      "backordered": false,
+      "sold_individually": false,
+      "weight": "",
+      "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+      },
+      "shipping_required": true,
+      "shipping_taxable": true,
+      "shipping_class": "",
+      "shipping_class_id": 0,
+      "reviews_allowed": true,
+      "average_rating": "0.00",
+      "rating_count": 0,
+      "related_ids": [
+          27018,
+          40454,
+          40422,
+          27129
+      ],
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "purchase_note": "",
+      "categories": [
+          {
+              "id": 939,
+              "name": "ProVent Disinfectant Sprayers",
+              "slug": "provent-disinfectant-sprayers"
+          }
+      ],
+      "tags": [],
+      "images": [
+          {
+              "id": 37631,
+              "date_created": "2020-02-06T00:23:54",
+              "date_created_gmt": "2020-02-05T02:23:54",
+              "date_modified": "2020-02-06T23:55:20",
+              "date_modified_gmt": "2020-02-06T01:55:20",
+              "src": "https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/02/ReelStrike.png",
+              "name": "ReelStrike",
+              "alt": ""
+          }
+      ],
+      "attributes": [
+          {
+              "id": 1,
+              "name": "Capacity",
+              "position": 0,
+              "visible": true,
+              "variation": true,
+              "options": [
+                  "200 Litres (7.5L/min Pump)",
+                  "200 Litres (7.5L/min Pump) 30m Hose Reel",
+                  "200L - 12 Volt Spot Sprayer",
+                  "200L with 30m Hose Reel + 7.5L/min Pump",
+                  "400 Litres (7.5L/min Pump)",
+                  "400 Litres (7.5L/min Pump) 30m Hose Reel",
+                  "400L - 12 Volt Spot Sprayer",
+                  "400L with 30m Hose Reel + 7.5L/min Pump"
+              ]
+          }
+      ],
+      "default_attributes": [],
+      "variations": [
+          40445,
+          40446,
+          40447,
+          40448
+      ],
+      "grouped_products": [],
+      "menu_order": 0,
+      "meta_data": [
+      ],
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<meta name=\"description\" content=\"TTi&#039;s ProVent disinfectant sprayer is a quiet performer, perfect for public spaces and senstive areas. This disinfectant sprayer can mount to any vehicle.\" />\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta name=\"bingbot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://dev.tti.com.au/product/provent-12-volt-spot-sprayer/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"ProVent™ 12 Volt Disinfectant Sprayer - Trans Tank® International (TTi)\" />\n<meta property=\"og:description\" content=\"TTi&#039;s ProVent disinfectant sprayer is a quiet performer, perfect for public spaces and senstive areas. This disinfectant sprayer can mount to any vehicle.\" />\n<meta property=\"og:url\" content=\"https://dev.tti.com.au/product/provent-12-volt-spot-sprayer/\" />\n<meta property=\"og:site_name\" content=\"Trans Tank® International (TTi)\" />\n<meta property=\"article:modified_time\" content=\"2020-05-19T00:12:00+00:00\" />\n<meta property=\"og:image\" content=\"https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/02/ReelStrike.png\" />\n\t<meta property=\"og:image:width\" content=\"800\" />\n\t<meta property=\"og:image:height\" content=\"450\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://dev.tti.com.au/#website\",\"url\":\"https://dev.tti.com.au/\",\"name\":\"Trans Tank\\u00ae International (TTi)\",\"description\":\"The Safest Tanks in Motion\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://dev.tti.com.au/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-AU\"},{\"@type\":\"ImageObject\",\"@id\":\"https://dev.tti.com.au/product/provent-12-volt-spot-sprayer/#primaryimage\",\"inLanguage\":\"en-AU\",\"url\":\"https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/02/ReelStrike.png\",\"width\":800,\"height\":450},{\"@type\":\"WebPage\",\"@id\":\"https://dev.tti.com.au/product/provent-12-volt-spot-sprayer/#webpage\",\"url\":\"https://dev.tti.com.au/product/provent-12-volt-spot-sprayer/\",\"name\":\"ProVent\\u2122 12 Volt Disinfectant Sprayer - Trans Tank\\u00ae International (TTi)\",\"isPartOf\":{\"@id\":\"https://dev.tti.com.au/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://dev.tti.com.au/product/provent-12-volt-spot-sprayer/#primaryimage\"},\"datePublished\":\"2020-04-02T01:41:02+00:00\",\"dateModified\":\"2020-05-19T00:12:00+00:00\",\"description\":\"TTi's ProVent disinfectant sprayer is a quiet performer, perfect for public spaces and senstive areas. This disinfectant sprayer can mount to any vehicle.\",\"inLanguage\":\"en-AU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://dev.tti.com.au/product/provent-12-volt-spot-sprayer/\"]}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "_links": {
+          "self": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/40444"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products"
+              }
+          ]
+      }
+  },
+  {
+      "id": 40422,
+      "name": "ProVent™ Slip-On Field Disinfectant Sprayer",
+      "slug": "provent-slip-on-field-sprayer",
+      "permalink": "https://dev.tti.com.au/product/provent-slip-on-field-sprayer/",
+      "date_created": "2020-04-02T11:35:13",
+      "date_created_gmt": "2020-04-02T00:35:13",
+      "date_modified": "2020-06-24T09:55:14",
+      "date_modified_gmt": "2020-06-23T23:55:14",
+      "type": "variable",
+      "status": "publish",
+      "featured": false,
+      "catalog_visibility": "visible",
+      "description": "<p>A high performing UTE mounted field sprayer. Boasting a genuine GX200 Honda Motor, coupled to the reliable Bertolini pump, and 30m hose reel. The forkliftable steel frame allows both easy loading and safe securing of your spray unit to your vehicle, so it can be put to work in minutes.</p>\n",
+      "short_description": "",
+      "sku": "TopCrop-provent",
+      "price": "4010",
+      "regular_price": "",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_from_gmt": null,
+      "date_on_sale_to": null,
+      "date_on_sale_to_gmt": null,
+      "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>4,010.00</span> &ndash; <span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>6,367.00</span>",
+      "on_sale": false,
+      "purchasable": true,
+      "total_sales": 0,
+      "virtual": false,
+      "downloadable": false,
+      "downloads": [],
+      "download_limit": 0,
+      "download_expiry": 0,
+      "external_url": "",
+      "button_text": "",
+      "tax_status": "taxable",
+      "tax_class": "",
+      "manage_stock": true,
+      "stock_quantity": 500,
+      "stock_status": "instock",
+      "backorders": "no",
+      "backorders_allowed": false,
+      "backordered": false,
+      "sold_individually": false,
+      "weight": "",
+      "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+      },
+      "shipping_required": true,
+      "shipping_taxable": true,
+      "shipping_class": "",
+      "shipping_class_id": 0,
+      "reviews_allowed": true,
+      "average_rating": "0.00",
+      "rating_count": 0,
+      "related_ids": [
+          27018,
+          40454,
+          40444,
+          27129
+      ],
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "purchase_note": "",
+      "categories": [
+          {
+              "id": 939,
+              "name": "ProVent Disinfectant Sprayers",
+              "slug": "provent-disinfectant-sprayers"
+          }
+      ],
+      "tags": [],
+      "images": [
+          {
+              "id": 37639,
+              "date_created": "2020-02-06T01:05:37",
+              "date_created_gmt": "2020-02-05T03:05:37",
+              "date_modified": "2020-02-07T00:00:14",
+              "date_modified_gmt": "2020-02-06T02:00:14",
+              "src": "https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/02/TopCrop.png",
+              "name": "TopCrop",
+              "alt": ""
+          }
+      ],
+      "attributes": [
+          {
+              "id": 1,
+              "name": "Capacity",
+              "position": 0,
+              "visible": true,
+              "variation": true,
+              "options": [
+                  "1000 Litres (22L/min Pump)",
+                  "1000 Litres (75L/min Pump)",
+                  "1000L Field Sprayer with 22L/min Pump",
+                  "1000L Field Sprayer with 75L/min Pump",
+                  "200 Litres (22L/min Pump)",
+                  "200 Litres (22L/min)",
+                  "200L Field Sprayer with 22L/min Pump",
+                  "300 Litres (22L/min Pump)",
+                  "300L Field Sprayer with 22L/min Pump",
+                  "400 Litres (22L/min Pump)",
+                  "400 Litres (22L/min Pump) Short",
+                  "500 Litres (22L/min Pump)",
+                  "500 Litres (75L/min Pump)",
+                  "500L Field Sprayer with 22L/min Pump",
+                  "500L Field Sprayer with 75L/min Pump",
+                  "600 Litres (22L/min Pump)",
+                  "600 Litres (22L/min Pump) Short",
+                  "600 Litres (75L/min Pump)",
+                  "600L Field Sprayer with 22L/min Pump",
+                  "600L Field Sprayer with 75L/min Pump",
+                  "800 Litres (22L/min Pump)",
+                  "800 Litres (75L/min Pump)",
+                  "800L Field Sprayer with 22L/min Pump",
+                  "800L Field Sprayer with 75L/min Pump 800L Field Sprayer with 22L/min Pump",
+                  "Short 400L Field Sprayer with 22L/min Pump 500L Field Sprayer with 22L/min Pump",
+                  "Short 600L Field Sprayer with 22L/min Pump"
+              ]
+          }
+      ],
+      "default_attributes": [],
+      "variations": [
+          40423,
+          40424,
+          40425,
+          40426,
+          40428,
+          40431,
+          40433
+      ],
+      "grouped_products": [],
+      "menu_order": 0,
+      "meta_data": [
+      ],
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<meta name=\"description\" content=\"TTi ProVent Slip on Field Sprayer for disinfection, sanitisation and cleaning applications is ideal for mounting on to ute&#039;s, commerical vans and trailers.\" />\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta name=\"bingbot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://dev.tti.com.au/product/provent-slip-on-field-sprayer/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"ProVent™ Slip-On Field Disinfectant Sprayer - Trans Tank® International (TTi)\" />\n<meta property=\"og:description\" content=\"TTi ProVent Slip on Field Sprayer for disinfection, sanitisation and cleaning applications is ideal for mounting on to ute&#039;s, commerical vans and trailers.\" />\n<meta property=\"og:url\" content=\"https://dev.tti.com.au/product/provent-slip-on-field-sprayer/\" />\n<meta property=\"og:site_name\" content=\"Trans Tank® International (TTi)\" />\n<meta property=\"article:modified_time\" content=\"2020-06-23T23:55:14+00:00\" />\n<meta property=\"og:image\" content=\"https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/02/TopCrop.png\" />\n\t<meta property=\"og:image:width\" content=\"800\" />\n\t<meta property=\"og:image:height\" content=\"450\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://dev.tti.com.au/#website\",\"url\":\"https://dev.tti.com.au/\",\"name\":\"Trans Tank\\u00ae International (TTi)\",\"description\":\"The Safest Tanks in Motion\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://dev.tti.com.au/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-AU\"},{\"@type\":\"ImageObject\",\"@id\":\"https://dev.tti.com.au/product/provent-slip-on-field-sprayer/#primaryimage\",\"inLanguage\":\"en-AU\",\"url\":\"https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/02/TopCrop.png\",\"width\":800,\"height\":450},{\"@type\":\"WebPage\",\"@id\":\"https://dev.tti.com.au/product/provent-slip-on-field-sprayer/#webpage\",\"url\":\"https://dev.tti.com.au/product/provent-slip-on-field-sprayer/\",\"name\":\"ProVent\\u2122 Slip-On Field Disinfectant Sprayer - Trans Tank\\u00ae International (TTi)\",\"isPartOf\":{\"@id\":\"https://dev.tti.com.au/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://dev.tti.com.au/product/provent-slip-on-field-sprayer/#primaryimage\"},\"datePublished\":\"2020-04-02T00:35:13+00:00\",\"dateModified\":\"2020-06-23T23:55:14+00:00\",\"description\":\"TTi ProVent Slip on Field Sprayer for disinfection, sanitisation and cleaning applications is ideal for mounting on to ute's, commerical vans and trailers.\",\"inLanguage\":\"en-AU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://dev.tti.com.au/product/provent-slip-on-field-sprayer/\"]}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "_links": {
+          "self": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/40422"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products"
+              }
+          ]
+      }
+  },
+  {
+      "id": 38527,
+      "name": "Spray Marshal 12L/min Pump and Motor Kit",
+      "slug": "spray-marshal-12l-min-pump-and-motor-kit",
+      "permalink": "https://dev.tti.com.au/product/spray-marshal-12l-min-pump-and-motor-kit/",
+      "date_created": "2020-02-26T13:51:50",
+      "date_created_gmt": "2020-02-26T02:51:50",
+      "date_modified": "2020-06-19T17:01:27",
+      "date_modified_gmt": "2020-06-19T07:01:27",
+      "type": "simple",
+      "status": "publish",
+      "featured": false,
+      "catalog_visibility": "visible",
+      "description": "",
+      "short_description": "",
+      "sku": "APP0120GH030G",
+      "price": "1639",
+      "regular_price": "1639",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_from_gmt": null,
+      "date_on_sale_to": null,
+      "date_on_sale_to_gmt": null,
+      "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>1,639.00</span>",
+      "on_sale": false,
+      "purchasable": true,
+      "total_sales": 0,
+      "virtual": false,
+      "downloadable": false,
+      "downloads": [],
+      "download_limit": -1,
+      "download_expiry": -1,
+      "external_url": "",
+      "button_text": "",
+      "tax_status": "taxable",
+      "tax_class": "",
+      "manage_stock": true,
+      "stock_quantity": 100,
+      "stock_status": "instock",
+      "backorders": "no",
+      "backorders_allowed": false,
+      "backordered": false,
+      "sold_individually": false,
+      "weight": "",
+      "dimensions": {
+          "length": "",
+          "width": "",
+          "height": ""
+      },
+      "shipping_required": true,
+      "shipping_taxable": true,
+      "shipping_class": "",
+      "shipping_class_id": 0,
+      "reviews_allowed": true,
+      "average_rating": "0.00",
+      "rating_count": 0,
+      "related_ids": [
+          28901,
+          28907,
+          28884,
+          28904,
+          28870
+      ],
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "purchase_note": "",
+      "categories": [
+          {
+              "id": 30,
+              "name": "Civil Water Carts",
+              "slug": "civil-water-cartage-tanks"
+          },
+          {
+              "id": 552,
+              "name": "Pump Kits",
+              "slug": "pump-kits"
+          }
+      ],
+      "tags": [],
+      "images": [
+          {
+              "id": 38528,
+              "date_created": "2020-02-27T00:48:35",
+              "date_created_gmt": "2020-02-26T02:48:35",
+              "date_modified": "2020-02-27T00:48:35",
+              "date_modified_gmt": "2020-02-26T02:48:35",
+              "src": "https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/02/tti-accessories-engine-honda-6x35-reel-gun.jpg",
+              "name": "tti-accessories-engine-honda-6&#215;35-reel-gun",
+              "alt": ""
+          }
+      ],
+      "attributes": [],
+      "default_attributes": [],
+      "variations": [],
+      "grouped_products": [],
+      "menu_order": 0,
+      "meta_data": [
+      ],
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<!-- Admin only notice: this page does not show a meta description because it does not have one, either write it for this page specifically or go into the [SEO - Search Appearance] menu and set up a template. -->\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta name=\"bingbot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://dev.tti.com.au/product/spray-marshal-12l-min-pump-and-motor-kit/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Spray Marshal 12L/min Pump and Motor Kit - Trans Tank® International (TTi)\" />\n<meta property=\"og:url\" content=\"https://dev.tti.com.au/product/spray-marshal-12l-min-pump-and-motor-kit/\" />\n<meta property=\"og:site_name\" content=\"Trans Tank® International (TTi)\" />\n<meta property=\"article:modified_time\" content=\"2020-06-19T07:01:27+00:00\" />\n<meta property=\"og:image\" content=\"https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/02/tti-accessories-engine-honda-6x35-reel-gun.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1000\" />\n\t<meta property=\"og:image:height\" content=\"667\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://dev.tti.com.au/#website\",\"url\":\"https://dev.tti.com.au/\",\"name\":\"Trans Tank\\u00ae International (TTi)\",\"description\":\"The Safest Tanks in Motion\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://dev.tti.com.au/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-AU\"},{\"@type\":\"ImageObject\",\"@id\":\"https://dev.tti.com.au/product/spray-marshal-12l-min-pump-and-motor-kit/#primaryimage\",\"inLanguage\":\"en-AU\",\"url\":\"https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/02/tti-accessories-engine-honda-6x35-reel-gun.jpg\",\"width\":1000,\"height\":667},{\"@type\":\"WebPage\",\"@id\":\"https://dev.tti.com.au/product/spray-marshal-12l-min-pump-and-motor-kit/#webpage\",\"url\":\"https://dev.tti.com.au/product/spray-marshal-12l-min-pump-and-motor-kit/\",\"name\":\"Spray Marshal 12L/min Pump and Motor Kit - Trans Tank\\u00ae International (TTi)\",\"isPartOf\":{\"@id\":\"https://dev.tti.com.au/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://dev.tti.com.au/product/spray-marshal-12l-min-pump-and-motor-kit/#primaryimage\"},\"datePublished\":\"2020-02-26T02:51:50+00:00\",\"dateModified\":\"2020-06-19T07:01:27+00:00\",\"inLanguage\":\"en-AU\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://dev.tti.com.au/product/spray-marshal-12l-min-pump-and-motor-kit/\"]}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "_links": {
+          "self": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/38527"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products"
+              }
+          ]
+      }
+  }
+]

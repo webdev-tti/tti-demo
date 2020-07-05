@@ -1,0 +1,363 @@
+[
+  {
+      "id": 939,
+      "name": "ProVent Disinfectant Sprayers",
+      "slug": "provent-disinfectant-sprayers",
+      "parent": 0,
+      "description": "",
+      "display": "default",
+      "image": {
+          "id": 40163,
+          "date_created": "2020-03-26T20:30:02",
+          "date_created_gmt": "2020-03-26T09:30:02",
+          "date_modified": "2020-04-01T07:04:26",
+          "date_modified_gmt": "2020-03-31T20:04:26",
+          "src": "https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/03/cta-topcrop-200326-2.png",
+          "name": "cta-topcrop-200326-2",
+          "alt": ""
+      },
+      "menu_order": 0,
+      "count": 5,
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<!-- Admin only notice: this page does not show a meta description because it does not have one, either write it for this page specifically or go into the [SEO - Search Appearance] menu and set up a template. -->\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta name=\"bingbot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://dev.tti.com.au/product-category/provent-disinfectant-sprayers/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"ProVent Disinfectant Sprayers - Trans Tank® International (TTi)\" />\n<meta property=\"og:url\" content=\"https://dev.tti.com.au/product-category/provent-disinfectant-sprayers/\" />\n<meta property=\"og:site_name\" content=\"Trans Tank® International (TTi)\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://dev.tti.com.au/#website\",\"url\":\"https://dev.tti.com.au/\",\"name\":\"Trans Tank\\u00ae International (TTi)\",\"description\":\"The Safest Tanks in Motion\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://dev.tti.com.au/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-AU\"},{\"@type\":\"CollectionPage\",\"@id\":\"https://dev.tti.com.au/product-category/provent-disinfectant-sprayers/#webpage\",\"url\":\"https://dev.tti.com.au/product-category/provent-disinfectant-sprayers/\",\"name\":\"ProVent Disinfectant Sprayers - Trans Tank\\u00ae International (TTi)\",\"isPartOf\":{\"@id\":\"https://dev.tti.com.au/#website\"},\"inLanguage\":\"en-AU\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "_links": {
+          "self": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/categories/939"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/categories"
+              }
+          ]
+      }
+  },
+  {
+      "id": 950,
+      "name": "Water Trucks - Factory Fitted",
+      "slug": "civil-factory-fitout",
+      "parent": 30,
+      "description": "<p>TTi's Chassis Mount Water Carts have been carefully engineered to offer a complete solution that works every time. The number one choice for civil contractors, councils, hire companies and commercial landscapers across Australia, these units boast a huge range of user-friendly functions for dust duppression, soil conditioning, water transfer and more! The range is manufactured entirely by TTi in Melbourne, VIC, and is distributed throughout Australia.</p>",
+      "display": "default",
+      "image": {
+          "id": 36536,
+          "date_created": "2020-01-31T17:28:06",
+          "date_created_gmt": "2020-01-31T06:28:06",
+          "date_modified": "2020-01-31T17:28:06",
+          "date_modified_gmt": "2020-01-31T06:28:06",
+          "src": "https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2019/12/Cascade.png",
+          "name": "Cascade",
+          "alt": ""
+      },
+      "menu_order": 0,
+      "count": 4,
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<!-- Admin only notice: this page does not show a meta description because it does not have one, either write it for this page specifically or go into the [SEO - Search Appearance] menu and set up a template. -->\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta name=\"bingbot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://dev.tti.com.au/product-category/civil-water-cartage-tanks/civil-factory-fitout/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Water Trucks - Factory Fitted - Trans Tank® International (TTi)\" />\n<meta property=\"og:description\" content=\"TTi&#8217;s Chassis Mount Water Carts have been carefully engineered to offer a complete solution that works every time. The number one choice for civil contractors, councils, hire companies and commercial landscapers across Australia, these units boast a huge range of user-friendly functions for dust duppression, soil conditioning, water transfer and more! The range is manufactured entirely by TTi in Melbourne, VIC, and is distributed throughout Australia.\" />\n<meta property=\"og:url\" content=\"https://dev.tti.com.au/product-category/civil-water-cartage-tanks/civil-factory-fitout/\" />\n<meta property=\"og:site_name\" content=\"Trans Tank® International (TTi)\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://dev.tti.com.au/#website\",\"url\":\"https://dev.tti.com.au/\",\"name\":\"Trans Tank\\u00ae International (TTi)\",\"description\":\"The Safest Tanks in Motion\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://dev.tti.com.au/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-AU\"},{\"@type\":\"CollectionPage\",\"@id\":\"https://dev.tti.com.au/product-category/civil-water-cartage-tanks/civil-factory-fitout/#webpage\",\"url\":\"https://dev.tti.com.au/product-category/civil-water-cartage-tanks/civil-factory-fitout/\",\"name\":\"Water Trucks - Factory Fitted - Trans Tank\\u00ae International (TTi)\",\"isPartOf\":{\"@id\":\"https://dev.tti.com.au/#website\"},\"inLanguage\":\"en-AU\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "_links": {
+          "self": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/categories/950"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/categories"
+              }
+          ],
+          "up": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/categories/30"
+              }
+          ]
+      }
+  },
+  {
+      "id": 957,
+      "name": "Remote Supply",
+      "slug": "civil-remote-supply",
+      "parent": 30,
+      "description": "The AquaModule ‘remote build’, is the perfect solution for clients who have the desire to do their own ‘fit-off’ of a complete water cart module.\r\nThink Convenience…Think AquaModule! \r\n",
+      "display": "default",
+      "image": {
+          "id": 37850,
+          "date_created": "2020-02-07T12:42:36",
+          "date_created_gmt": "2020-02-07T01:42:36",
+          "date_modified": "2020-02-07T12:53:03",
+          "date_modified_gmt": "2020-02-07T01:53:03",
+          "src": "https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/02/Slip-On-Water-Carts.png",
+          "name": "Slip-On-Water-Carts floodrite",
+          "alt": ""
+      },
+      "menu_order": 0,
+      "count": 0,
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<!-- Admin only notice: this page does not show a meta description because it does not have one, either write it for this page specifically or go into the [SEO - Search Appearance] menu and set up a template. -->\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta name=\"bingbot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://dev.tti.com.au/product-category/civil-water-cartage-tanks/civil-remote-supply/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Remote Supply - Trans Tank® International (TTi)\" />\n<meta property=\"og:description\" content=\"The AquaModule ‘remote build’, is the perfect solution for clients who have the desire to do their own ‘fit-off’ of a complete water cart module. Think Convenience…Think AquaModule!\" />\n<meta property=\"og:url\" content=\"https://dev.tti.com.au/product-category/civil-water-cartage-tanks/civil-remote-supply/\" />\n<meta property=\"og:site_name\" content=\"Trans Tank® International (TTi)\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://dev.tti.com.au/#website\",\"url\":\"https://dev.tti.com.au/\",\"name\":\"Trans Tank\\u00ae International (TTi)\",\"description\":\"The Safest Tanks in Motion\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://dev.tti.com.au/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-AU\"},{\"@type\":\"CollectionPage\",\"@id\":\"https://dev.tti.com.au/product-category/civil-water-cartage-tanks/civil-remote-supply/#webpage\",\"url\":\"https://dev.tti.com.au/product-category/civil-water-cartage-tanks/civil-remote-supply/\",\"name\":\"Remote Supply - Trans Tank\\u00ae International (TTi)\",\"isPartOf\":{\"@id\":\"https://dev.tti.com.au/#website\"},\"inLanguage\":\"en-AU\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "_links": {
+          "self": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/categories/957"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/categories"
+              }
+          ],
+          "up": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/categories/30"
+              }
+          ]
+      }
+  },
+  {
+      "id": 30,
+      "name": "Civil Water Carts",
+      "slug": "civil-water-cartage-tanks",
+      "parent": 0,
+      "description": "",
+      "display": "default",
+      "image": {
+          "id": 37848,
+          "date_created": "2020-02-07T12:34:35",
+          "date_created_gmt": "2020-02-07T01:34:35",
+          "date_modified": "2020-02-07T12:53:08",
+          "date_modified_gmt": "2020-02-07T01:53:08",
+          "src": "https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/02/Civil-Water-Carts.png",
+          "name": "Civil-Water-Carts cascade",
+          "alt": ""
+      },
+      "menu_order": 1,
+      "count": 24,
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<meta name=\"description\" content=\"Trans Tank International&#039;s civil &amp; industrial water carts, trucks, tanks and trailers are manufactured to withstand the Australian Environment. Australian Made, 20 Year Tank Warranty!\" />\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta name=\"bingbot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://dev.tti.com.au/product-category/civil-water-cartage-tanks/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Civil &amp; Industrial Water Carts &amp; Accessories | Trans Tank International\" />\n<meta property=\"og:description\" content=\"Trans Tank International&#039;s civil &amp; industrial water carts, trucks, tanks and trailers are manufactured to withstand the Australian Environment. Australian Made, 20 Year Tank Warranty!\" />\n<meta property=\"og:url\" content=\"https://dev.tti.com.au/product-category/civil-water-cartage-tanks/\" />\n<meta property=\"og:site_name\" content=\"Trans Tank® International (TTi)\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://dev.tti.com.au/#website\",\"url\":\"https://dev.tti.com.au/\",\"name\":\"Trans Tank\\u00ae International (TTi)\",\"description\":\"The Safest Tanks in Motion\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://dev.tti.com.au/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-AU\"},{\"@type\":\"CollectionPage\",\"@id\":\"https://dev.tti.com.au/product-category/civil-water-cartage-tanks/#webpage\",\"url\":\"https://dev.tti.com.au/product-category/civil-water-cartage-tanks/\",\"name\":\"Civil & Industrial Water Carts & Accessories | Trans Tank International\",\"isPartOf\":{\"@id\":\"https://dev.tti.com.au/#website\"},\"description\":\"Trans Tank International's civil & industrial water carts, trucks, tanks and trailers are manufactured to withstand the Australian Environment. Australian Made, 20 Year Tank Warranty!\",\"inLanguage\":\"en-AU\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "_links": {
+          "self": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/categories/30"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/categories"
+              }
+          ]
+      }
+  },
+  {
+      "id": 479,
+      "name": "Agricultural Trailers",
+      "slug": "agricultural-trailers",
+      "parent": 478,
+      "description": "<p>ATV Trailers &amp; Farm Trailers:</p>\r\n<p>Are you tired of lugging everything around the farm manually?<br />\r\nIf you want to stop breaking your back with that dusty old wheelbarrow, you need an ATV Trailer / Farm Trailer!<br />\r\nTTi's hot-dip galvanised ATV Trailers with high flotation tyres, and a fully enclosed cage is the perfect combination for your UTV or ATV.</p>",
+      "display": "default",
+      "image": {
+          "id": 36543,
+          "date_created": "2020-01-31T19:30:02",
+          "date_created_gmt": "2020-01-31T08:30:02",
+          "date_modified": "2020-01-31T19:30:47",
+          "date_modified_gmt": "2020-01-31T08:30:47",
+          "src": "https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/01/HandiKart.png",
+          "name": "HandiKart",
+          "alt": ""
+      },
+      "menu_order": 3,
+      "count": 1,
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<!-- Admin only notice: this page does not show a meta description because it does not have one, either write it for this page specifically or go into the [SEO - Search Appearance] menu and set up a template. -->\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta name=\"bingbot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://dev.tti.com.au/product-category/agricultural-equipment/agricultural-trailers/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Agricultural Trailers - Trans Tank® International (TTi)\" />\n<meta property=\"og:description\" content=\"ATV Trailers &amp; Farm Trailers: Are you tired of lugging everything around the farm manually? If you want to stop breaking your back with that dusty old wheelbarrow, you need an ATV Trailer / Farm Trailer! TTi&#8217;s hot-dip galvanised ATV Trailers with high flotation tyres, and a fully enclosed cage is the perfect combination for your UTV or ATV.\" />\n<meta property=\"og:url\" content=\"https://dev.tti.com.au/product-category/agricultural-equipment/agricultural-trailers/\" />\n<meta property=\"og:site_name\" content=\"Trans Tank® International (TTi)\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://dev.tti.com.au/#website\",\"url\":\"https://dev.tti.com.au/\",\"name\":\"Trans Tank\\u00ae International (TTi)\",\"description\":\"The Safest Tanks in Motion\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://dev.tti.com.au/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-AU\"},{\"@type\":\"CollectionPage\",\"@id\":\"https://dev.tti.com.au/product-category/agricultural-equipment/agricultural-trailers/#webpage\",\"url\":\"https://dev.tti.com.au/product-category/agricultural-equipment/agricultural-trailers/\",\"name\":\"Agricultural Trailers - Trans Tank\\u00ae International (TTi)\",\"isPartOf\":{\"@id\":\"https://dev.tti.com.au/#website\"},\"inLanguage\":\"en-AU\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "_links": {
+          "self": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/categories/479"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/categories"
+              }
+          ],
+          "up": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/categories/478"
+              }
+          ]
+      }
+  },
+  {
+      "id": 487,
+      "name": "Backpack &amp; Compression Sprayers",
+      "slug": "backpack-compression-sprayers",
+      "parent": 480,
+      "description": "<p>Knapsack Compression Sprayers<br />\r\nProtect your garden, crops and lawn against unwanted weeds. Built to withstand Australian conditions, the Inter range of knapsack and compression sprayers are both effective and comfortable.</p>\r\n<p>From 1L to 16L options, find the right compression sprayer for your application below.</p>",
+      "display": "default",
+      "image": {
+          "id": 37863,
+          "date_created": "2020-02-07T13:32:49",
+          "date_created_gmt": "2020-02-07T02:32:49",
+          "date_modified": "2020-03-05T11:04:14",
+          "date_modified_gmt": "2020-03-05T00:04:14",
+          "src": "https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/02/Backpack-Compression-Sprayers.png",
+          "name": "Backpack-&#038;-Compression-Sprayers",
+          "alt": ""
+      },
+      "menu_order": 9,
+      "count": 3,
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<meta name=\"description\" content=\"Protect your garden &amp; crops against unwanted weeds. The versatile range of TTI backpack &amp; compression sprayers are both effective and comfortable.\" />\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta name=\"bingbot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://dev.tti.com.au/product-category/agricultural-spray-equipment/backpack-compression-sprayers/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Backpack &amp; Compression Garden Sprayers | Trans Tank International\" />\n<meta property=\"og:description\" content=\"Protect your garden &amp; crops against unwanted weeds. The versatile range of TTI backpack &amp; compression sprayers are both effective and comfortable.\" />\n<meta property=\"og:url\" content=\"https://dev.tti.com.au/product-category/agricultural-spray-equipment/backpack-compression-sprayers/\" />\n<meta property=\"og:site_name\" content=\"Trans Tank® International (TTi)\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://dev.tti.com.au/#website\",\"url\":\"https://dev.tti.com.au/\",\"name\":\"Trans Tank\\u00ae International (TTi)\",\"description\":\"The Safest Tanks in Motion\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://dev.tti.com.au/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-AU\"},{\"@type\":\"CollectionPage\",\"@id\":\"https://dev.tti.com.au/product-category/agricultural-spray-equipment/backpack-compression-sprayers/#webpage\",\"url\":\"https://dev.tti.com.au/product-category/agricultural-spray-equipment/backpack-compression-sprayers/\",\"name\":\"Backpack & Compression Garden Sprayers | Trans Tank International\",\"isPartOf\":{\"@id\":\"https://dev.tti.com.au/#website\"},\"description\":\"Protect your garden & crops against unwanted weeds. The versatile range of TTI backpack & compression sprayers are both effective and comfortable.\",\"inLanguage\":\"en-AU\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "_links": {
+          "self": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/categories/487"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/categories"
+              }
+          ],
+          "up": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/categories/480"
+              }
+          ]
+      }
+  },
+  {
+      "id": 494,
+      "name": "Pressure Cleaning Trailers",
+      "slug": "pressure-cleaning-trailers-pressure-cleaning-units",
+      "parent": 493,
+      "description": "",
+      "display": "default",
+      "image": "null",
+      "menu_order": 14,
+      "count": 1,
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<!-- Admin only notice: this page does not show a meta description because it does not have one, either write it for this page specifically or go into the [SEO - Search Appearance] menu and set up a template. -->\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta name=\"bingbot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://dev.tti.com.au/product-category/civil-water-cartage-tanks/pressure-cleaning-units/pressure-cleaning-trailers-pressure-cleaning-units/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Pressure Cleaning Trailers - Trans Tank® International (TTi)\" />\n<meta property=\"og:url\" content=\"https://dev.tti.com.au/product-category/civil-water-cartage-tanks/pressure-cleaning-units/pressure-cleaning-trailers-pressure-cleaning-units/\" />\n<meta property=\"og:site_name\" content=\"Trans Tank® International (TTi)\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://dev.tti.com.au/#website\",\"url\":\"https://dev.tti.com.au/\",\"name\":\"Trans Tank\\u00ae International (TTi)\",\"description\":\"The Safest Tanks in Motion\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://dev.tti.com.au/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-AU\"},{\"@type\":\"CollectionPage\",\"@id\":\"https://dev.tti.com.au/product-category/civil-water-cartage-tanks/pressure-cleaning-units/pressure-cleaning-trailers-pressure-cleaning-units/#webpage\",\"url\":\"https://dev.tti.com.au/product-category/civil-water-cartage-tanks/pressure-cleaning-units/pressure-cleaning-trailers-pressure-cleaning-units/\",\"name\":\"Pressure Cleaning Trailers - Trans Tank\\u00ae International (TTi)\",\"isPartOf\":{\"@id\":\"https://dev.tti.com.au/#website\"},\"inLanguage\":\"en-AU\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "_links": {
+          "self": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/categories/494"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/categories"
+              }
+          ],
+          "up": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/categories/493"
+              }
+          ]
+      }
+  },
+  {
+      "id": 496,
+      "name": "Slip-on Yard Watering Units",
+      "slug": "slip-on-yard-watering-units",
+      "parent": 30,
+      "description": "<p>AquaPath | Forkliftable Water Cart built by TTi<br />\r\nTTi’s tough and robust AquaPath is perfect for civil works, dust suppression, tree watering, fire fighting. This slip on water cart is simple yet safe, effective, and reliable that does the job every time. View our range of accessories and options to build the perfect AquaPath water cart for your needs!<br />\r\nTested and ready to be mounted on any tipper, flat tray or trailer!</p>",
+      "display": "default",
+      "image": {
+          "id": 37851,
+          "date_created": "2020-02-07T12:43:52",
+          "date_created_gmt": "2020-02-07T01:43:52",
+          "date_modified": "2020-02-07T12:43:52",
+          "date_modified_gmt": "2020-02-07T01:43:52",
+          "src": "https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/02/Slip-on-Yard-Watering-Units.png",
+          "name": "Slip-on-Yard-Watering-Units",
+          "alt": ""
+      },
+      "menu_order": 16,
+      "count": 1,
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<meta name=\"description\" content=\"TTi is offering transportable liquid cartage solutions to the industrial market sector in a number of practical configurations.\" />\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta name=\"bingbot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://dev.tti.com.au/product-category/civil-water-cartage-tanks/slip-on-yard-watering-units/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Slip-on Yard Watering Tank Units | Trans Tank International\" />\n<meta property=\"og:description\" content=\"TTi is offering transportable liquid cartage solutions to the industrial market sector in a number of practical configurations.\" />\n<meta property=\"og:url\" content=\"https://dev.tti.com.au/product-category/civil-water-cartage-tanks/slip-on-yard-watering-units/\" />\n<meta property=\"og:site_name\" content=\"Trans Tank® International (TTi)\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://dev.tti.com.au/#website\",\"url\":\"https://dev.tti.com.au/\",\"name\":\"Trans Tank\\u00ae International (TTi)\",\"description\":\"The Safest Tanks in Motion\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://dev.tti.com.au/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-AU\"},{\"@type\":\"CollectionPage\",\"@id\":\"https://dev.tti.com.au/product-category/civil-water-cartage-tanks/slip-on-yard-watering-units/#webpage\",\"url\":\"https://dev.tti.com.au/product-category/civil-water-cartage-tanks/slip-on-yard-watering-units/\",\"name\":\"Slip-on Yard Watering Tank Units | Trans Tank International\",\"isPartOf\":{\"@id\":\"https://dev.tti.com.au/#website\"},\"description\":\"TTi is offering transportable liquid cartage solutions to the industrial market sector in a number of practical configurations.\",\"inLanguage\":\"en-AU\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "_links": {
+          "self": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/categories/496"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/categories"
+              }
+          ],
+          "up": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/categories/30"
+              }
+          ]
+      }
+  },
+  {
+      "id": 502,
+      "name": "Portable Fire Fighters",
+      "slug": "portable-fire-fighters",
+      "parent": 499,
+      "description": "<p>Portable Fire Fighting Units by TTi<br />\r\nAt TTi we have used our industry expertise to develop versatile portable firefighters. With great practicality and ease-of-use, these are a great option to ensure you’re prepared to combat a fire. Our tractor-mount and carry options are ideal for quick and easy response.<br />\r\nSee our range below of portable firefighters for great value for money and call us today to find out more.<br />\r\nTTi – Australia’s leading portable fire fighter supplier.</p>",
+      "display": "default",
+      "image": {
+          "id": 37858,
+          "date_created": "2020-02-07T13:07:45",
+          "date_created_gmt": "2020-02-07T02:07:45",
+          "date_modified": "2020-03-05T11:04:14",
+          "date_modified_gmt": "2020-03-05T00:04:14",
+          "src": "https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/02/Portable-Fire-Fighters.png",
+          "name": "Portable-Fire-Fighters",
+          "alt": ""
+      },
+      "menu_order": 23,
+      "count": 2,
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<meta name=\"description\" content=\"At TTi we have used our industry expertise to develop versatile portable firefighters. With great practicality and ease-of-use, these are a great option to ensure you’re prepared to combat a fire. Our tractor-mount and carry options are ideal for quick and easy response.\" />\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta name=\"bingbot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://dev.tti.com.au/product-category/fire-fighting-tanks-equipment/portable-fire-fighters/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Portable Fire Fighters - Trans Tank® International (TTi)\" />\n<meta property=\"og:description\" content=\"At TTi we have used our industry expertise to develop versatile portable firefighters. With great practicality and ease-of-use, these are a great option to ensure you’re prepared to combat a fire. Our tractor-mount and carry options are ideal for quick and easy response.\" />\n<meta property=\"og:url\" content=\"https://dev.tti.com.au/product-category/fire-fighting-tanks-equipment/portable-fire-fighters/\" />\n<meta property=\"og:site_name\" content=\"Trans Tank® International (TTi)\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://dev.tti.com.au/#website\",\"url\":\"https://dev.tti.com.au/\",\"name\":\"Trans Tank\\u00ae International (TTi)\",\"description\":\"The Safest Tanks in Motion\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://dev.tti.com.au/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-AU\"},{\"@type\":\"CollectionPage\",\"@id\":\"https://dev.tti.com.au/product-category/fire-fighting-tanks-equipment/portable-fire-fighters/#webpage\",\"url\":\"https://dev.tti.com.au/product-category/fire-fighting-tanks-equipment/portable-fire-fighters/\",\"name\":\"Portable Fire Fighters - Trans Tank\\u00ae International (TTi)\",\"isPartOf\":{\"@id\":\"https://dev.tti.com.au/#website\"},\"description\":\"At TTi we have used our industry expertise to develop versatile portable firefighters. With great practicality and ease-of-use, these are a great option to ensure you\\u2019re prepared to combat a fire. Our tractor-mount and carry options are ideal for quick and easy response.\",\"inLanguage\":\"en-AU\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "_links": {
+          "self": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/categories/502"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/categories"
+              }
+          ],
+          "up": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/categories/499"
+              }
+          ]
+      }
+  },
+  {
+      "id": 509,
+      "name": "Water Cartage Tanks",
+      "slug": "water-cartage-tanks",
+      "parent": 503,
+      "description": "<p>TTi – Australia’s Leading Poly Liquid Cartage Tank Suppliers</p>\r\n<p>TTi are Australia’s leading manufacture of UV stabilised, impact resistant, polyethylene water cartage tanks. Designed with opaque colours to prevent algae growth, plus optional steel mounting frames, TTi will provide a complete solution to your water cartage needs.</p>\r\n<p>From 20 to 17,000 litres, including the popular 1000 litre water tank, the AquaTrans range has the poly water cartage tank for your UTE, Truck or Trailer. Offering premium stability and durability, select from our range of portable water tanks below.</p>",
+      "display": "default",
+      "image": {
+          "id": 37836,
+          "date_created": "2020-02-07T11:37:19",
+          "date_created_gmt": "2020-02-07T00:37:19",
+          "date_modified": "2020-02-07T11:37:19",
+          "date_modified_gmt": "2020-02-07T00:37:19",
+          "src": "https://media-cloud-tti.s3-ap-southeast-2.amazonaws.com/wp-content/uploads/2020/02/Water-Cartage-Tanks.png",
+          "name": "Water-Cartage-Tanks",
+          "alt": ""
+      },
+      "menu_order": 29,
+      "count": 2,
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v14.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<meta name=\"description\" content=\"As Australia&#039;s leading supplier, TTi manufacturers transportable liquid cartage tanks to the agricultural and civil markets for various applications.\" />\n<meta name=\"robots\" content=\"index, follow\" />\n<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<meta name=\"bingbot\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://dev.tti.com.au/product-category/liquid-transport-tanks/water-cartage-tanks/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Liquid Transport Tanks | Cartage Tanks | Trans Tank International\" />\n<meta property=\"og:description\" content=\"As Australia&#039;s leading supplier, TTi manufacturers transportable liquid cartage tanks to the agricultural and civil markets for various applications.\" />\n<meta property=\"og:url\" content=\"https://dev.tti.com.au/product-category/liquid-transport-tanks/water-cartage-tanks/\" />\n<meta property=\"og:site_name\" content=\"Trans Tank® International (TTi)\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://dev.tti.com.au/#website\",\"url\":\"https://dev.tti.com.au/\",\"name\":\"Trans Tank\\u00ae International (TTi)\",\"description\":\"The Safest Tanks in Motion\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://dev.tti.com.au/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-AU\"},{\"@type\":\"CollectionPage\",\"@id\":\"https://dev.tti.com.au/product-category/liquid-transport-tanks/water-cartage-tanks/#webpage\",\"url\":\"https://dev.tti.com.au/product-category/liquid-transport-tanks/water-cartage-tanks/\",\"name\":\"Liquid Transport Tanks | Cartage Tanks | Trans Tank International\",\"isPartOf\":{\"@id\":\"https://dev.tti.com.au/#website\"},\"description\":\"As Australia's leading supplier, TTi manufacturers transportable liquid cartage tanks to the agricultural and civil markets for various applications.\",\"inLanguage\":\"en-AU\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "_links": {
+          "self": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/categories/509"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/categories"
+              }
+          ],
+          "up": [
+              {
+                  "href": "https://dev.tti.com.au/wp-json/wc/v3/products/categories/503"
+              }
+          ]
+      }
+  }
+]
